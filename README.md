@@ -1,6 +1,7 @@
 # Modern JavaScript Developer Quiz
 # Robot Battledome
 
+View this page at: http://www.midnightthunder.net/exercises/modern-js-quiz-ryan-b-writin/index.html
 ## Setup
 
 1. `cd` to your quizzes directory.
